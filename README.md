@@ -24,6 +24,7 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | __💡Hub and Spoke Model for AI.__ |
 | __💡Classical ML Architecture.__ |
 | __💡Analytics Platform Architecture.__ |
+| __💡Data Platform Architecture.__ |
 | __💡Low Code No Code Architecture.__ |
 | __💡Importance of MLOps.__ |
 | __💡Consumption Model - APIM and MCP.__ |
@@ -76,16 +77,24 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | __🔥 REALTIME USE CASE 🔥__ |
 | <img src="/Images/12-Analytics-Platform-Architecture.jpg"> |
 
+| 📌 DATA PLATFORM ARCHITECTURE:- |
+| --------- |
+| __🔥 REALTIME USE CASE 🔥__ |
+| <img src="/Images/13-Data-Platform-Architecture.jpg"> |
+
 | 📌 LOW CODE NO CODE ARCHITECTURE:- |
 | --------- |
 | __🔥 REALTIME USE CASE - DATAIKU ARCHITECTURE 🔥__ |
-| <img src="/Images/13-Low-Code-No-Code.jpg"> |
+| <img src="/Images/14-Low-Code-No-Code.jpg"> |
 
 | 📌 IMPORTANCE OF MLOPS:- |
 | --------- |
-| <img src="/Images/14-MLOps.jpg"> |
+| <img src="/Images/15-MLOps.jpg"> |
 
-| 📌 CONSIUMPTION MODEL - APIM & MCP:- |
+| 📌 CONSUMPTION MODEL - APIM & MCP:- |
+| --------- |
+
+| 🧪 APIM:- |
 | --------- |
 
 | 📦 NATIVE FEATURES OF APIM:- |
@@ -102,7 +111,7 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | __🚀 Define Policy and apply for each API. Policies in APIM are XML Definition.__ |
 | __🚀 APIM Authentication Features defined in Pt 2, works well with Backend APIs and LLM Models - OpenAI, Mistral.... Multiple requests can be load balanced & send to Multiple instances of LLMS. In such Scenarios, using below features of LBs can be very useful - Priority, Weight, Retry, Circuit Breaker.__ |
 
-| 📌 GEN AI CAPABILITY IN APIM:- |
+| 📦 GEN AI CAPABILITY IN APIM:- |
 | --------- |
 | __🚀 LLM Token Limit__ |
 | __Limitations/Constraints of LLM:__ ✅ No. of Tokens available per model; ✅ No. of Tokens per region |
@@ -128,4 +137,12 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | __🚀 Streaming__ |
 | When LLM Models are directly invoked, it will respond by using streaming, __sending chunks of Data__. User can then start reading the initial data elements while LLM will continue the rest of the response. This same concept can be used in APIM. | 
 
+| 📦 GEN AI CAPABILITY IN APIM:- |
+| --------- |
+
+
+| 🧪 MCP:- |
+| --------- |
+
 | __📌 How AI Team Structure Looks Like.__ |
+| --------- |
