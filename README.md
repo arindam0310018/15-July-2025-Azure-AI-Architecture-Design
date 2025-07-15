@@ -22,7 +22,7 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | __💡How All Fits Together.__ |
 | __💡Decision Tree.__ |
 | __💡Hub and Spoke Model for AI.__ |
-| __💡Classical ML Architecture.__ |
+| __💡Classical Machine Learning Architecture.__ |
 | __💡Analytics Platform Architecture.__ |
 | __💡Data Platform Architecture.__ |
 | __💡Low Code No Code Architecture.__ |
@@ -68,7 +68,7 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | --------- |
 | <img src="/Images/10-AI-Architecture -Hub-Spoke.jpg"> |
 
-| 📌 CLASSICAL ML ARCHITECTURE:- |
+| 📌 CLASSICAL MACHINE LEARNING ARCHITECTURE:- |
 | --------- |
 | <img src="/Images/11-Classical-ML-Architecture.jpg"> |
 
@@ -144,6 +144,7 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | 🧪 MCP:- |
 | --------- |
 | MCP - __Model Context Protocol__ |
+| Curated List of All MCP Servers - https://github.com/wong2/awesome-mcp-servers |
 | __MCP Core Components:-__ |
 | <img src="/Images/17-MCP-Core-Components.jpg"> |
 | __Before & After MCP:-__ |
