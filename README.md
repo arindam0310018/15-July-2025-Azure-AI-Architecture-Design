@@ -76,9 +76,8 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | __REALTIME USE CASE__ |
 | <img src="/Images/12-Analytics-Platform-Architecture.jpg"> |
 
-| 📌 APIM:- |
+| 📌 NATIVE FEATURES OF APIM:- |
 | --------- |
-| Native Feature of APIM follows below:- |
 | __🚀 "Load Balance" Multiple Backend APIs.__ |
 | __🚀 Authentication__ |
 | __✅ APIM Service will call the Backend APIs on behalf of Application using Managed Identity.__ |
@@ -95,6 +94,12 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | --------- |
 | __🚀 LLM Token Limit__ |
 | __Limitations/Constraints of LLM:__ ✅ No. of Tokens available per model; ✅ No. of Tokens per region |
-| __Mitigation:__ ✅ Create LLM instance in different regions and use Priority and Weight to prioritize the LLM instance; ✅ With retry, we detect, if we have hit the limitation of any LLM Instances. if yes, then retry on the next available LLM instances in other region.  |
+| __Mitigation:__ ✅ Create LLM instance in different regions and use Priority and Weight to prioritize the LLM instance; ✅ With retry, we detect, if we have hit the limitation of any LLM Instances. if yes, then retry on the next available LLM instances in other region. |
+| Now in order to avoid hitting limitation in each LLM instance (Per model and/or Per region), there is "a new GENAI capability available in APIM" - __"LLM Token Limit"__. This is available using APIM Policy. This will allow APIM to limit, No of tokens issued by Application or by user to specific LLM Models. |
+| __🚀 LLM Token Limit__ |
+| Applying Policy using this feature, we can get specific metrics related to LLMs: |
+| __✅ No of Tokens consumed.__ |
+| __✅ No of remaining tokens.__ |
+| __✅ Tokens available per applications.__ |
 
 
