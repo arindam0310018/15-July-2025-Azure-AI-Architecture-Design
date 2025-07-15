@@ -76,7 +76,19 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | __🔥 REALTIME USE CASE 🔥__ |
 | <img src="/Images/12-Analytics-Platform-Architecture.jpg"> |
 
-| 📌 NATIVE FEATURES OF APIM:- |
+| 📌 LOW CODE NO CODE ARCHITECTURE:- |
+| --------- |
+| __🔥 REALTIME USE CASE - DATAIKU ARCHITECTURE 🔥__ |
+| <img src="/Images/13-Low-Code-No-Code.jpg"> |
+
+| 📌 IMPORTANCE OF MLOPS:- |
+| --------- |
+| <img src="/Images/14-MLOps.jpg"> |
+
+| 📌 CONSIUMPTION MODEL - APIM & MCP:- |
+| --------- |
+
+| 📦 NATIVE FEATURES OF APIM:- |
 | --------- |
 | __🚀 "Load Balance" Multiple Backend APIs.__ |
 | __🚀 Authentication__ |
@@ -115,3 +127,5 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | The Flow is - __User Prompt > Transferred to Vector > This Vector will then be used to search for the nearest vectors stored in Azure Redis Cache > This will then help us find the right response >  Response then send back to the application.__ |
 | __🚀 Streaming__ |
 | When LLM Models are directly invoked, it will respond by using streaming, __sending chunks of Data__. User can then start reading the initial data elements while LLM will continue the rest of the response. This same concept can be used in APIM. | 
+
+| __📌 How AI Team Structure Looks Like.__ |
