@@ -143,6 +143,11 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 
 | 🧪 MCP:- |
 | --------- |
+| MCP - __Model Context Protocol__ |
+| __MCP Core Components:-__ |
+| <img src="/Images/17-MCP-Core-Components.jpg"> |
+| __Before & After MCP:-__ |
+| <img src="/Images/18-Before-After-MCP.jpg"> |
 
 | __📌 How AI Team Structure Looks Like.__ |
 | --------- |
