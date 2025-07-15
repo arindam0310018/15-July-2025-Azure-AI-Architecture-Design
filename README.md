@@ -15,8 +15,8 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 
 | 🚀 AGENDA:- |
 | --------- |
-| 💡__Myths of AI Engineering.__ |
-| 💡__Myths of Data Science.__ |
+| __💡Myths of AI Engineering.__ |
+| __💡Myths of Data Science.__ |
 | 💡__Breakdown of AI based on Technology and Implementation.__ |
 | 💡__Breakdown of AI based on User interactions and Development.__ |
 | 💡__Decision Tree.__ |
