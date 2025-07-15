@@ -37,7 +37,7 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | --------- |
 | <img src="/Images/4-Myth-Data-Science.jpg"> |
 
-| 📌 BREAKDOWN OF AI BASED ON TECNNOLOGY & IMPLEMENTATION:- |
+| 📌 BREAKDOWN OF AI BASED ON TECHNOLOGY & IMPLEMENTATION:- |
 | --------- |
 | __✅ Machine Learning.__|
 | __✅ Deep Learning.__|
