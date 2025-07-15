@@ -38,6 +38,13 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 
 | 📌 BREAKDOWN OF AI BASED ON TECNNOLOGY & IMPLEMENTATION:- |
 | --------- |
+| __✅ Machine Learning.__|
+| __✅ Deep Learning.__|
+| __✅ Natural Language Processing.__|
 
 | 📌 BREAKDOWN OF AI BASED ON USER INTERACTIONS & DEVELOPMENT:- |
 | --------- |
+| __✅ Low Code No Code AI.__|
+| __✅ Generative AI.__|
+| __✅ Conversational AI.__|
+
