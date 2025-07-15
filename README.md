@@ -19,6 +19,7 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | __💡Myths of Data Science.__ |
 | __💡Breakdown of AI based on Technology and Implementation.__ |
 | __💡Breakdown of AI based on User interactions and Development.__ |
+| __💡How All Fits Together.__ |
 | __💡Decision Tree.__ |
 | __💡Hub and Spoke Model for AI.__ |
 | __💡Classical ML Architecture.__ |
@@ -48,3 +49,5 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | __✅ Generative AI.__|
 | __✅ Conversational AI.__|
 
+| 📌 HOW ALL FITS TOGETHER:- |
+| --------- |
