@@ -51,3 +51,12 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 
 | 📌 HOW ALL FITS TOGETHER:- |
 | --------- |
+| __📦 Machine Learning in LOW CODE NOT CODE; GEN AI; CONVERSATIONAL AI__ |
+| <img src="/Images/5-Classical-Machine-Learning.jpg"> |
+| __📦 Deep Learning in LOW CODE NOT CODE; GEN AI; CONVERSATIONAL AI__ |
+| <img src="/Images/6-Deep-Learning.jpg"> |
+| __📦 Natural Language Processing in LOW CODE NOT CODE; GEN AI; CONVERSATIONAL AI__ |
+| <img src="/Images/7-NLP.jpg"> |
+
+
+
