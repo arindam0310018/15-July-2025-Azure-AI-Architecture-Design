@@ -58,5 +58,9 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | __📦 Natural Language Processing in LOW CODE NOT CODE; GEN AI; CONVERSATIONAL AI__ |
 | <img src="/Images/7-NLP.jpg"> |
 
+| 📌 DECISION TREE:- |
+| --------- |
+| <img src="/Images/8-AI-Decision-Tree.jpg"> |
+
 
 
