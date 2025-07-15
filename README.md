@@ -10,7 +10,17 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | 🎯 __Scalability__ - Support onboarding of New AI Uses cases without Re-Architecture. |
 | 🎯 __Operational Excellence__ - Implementation of Observability and FinOps. Addtionally for AI Lifecycle Management, DevOps/MLOps working Hand to Hand. |
 
-<img width="858" height="1546" alt="image" src="https://github.com/user-attachments/assets/c7a6da85-1453-4b27-a4d9-232e34f0d083" />
+| 🚀 AGENDA:- |
+| --------- |
+| 🧭 Myths of AI. |
+| --------- |
+| --------- |
+| --------- |
+| --------- |
+| --------- |
+| --------- |
+| --------- |
+
 
 
 
