@@ -2,7 +2,7 @@
 
 In order to adopt AI based workloads in a consistent and production ready way, __An Azure AI Landing Zone is a MUST.__
 
-| 📌__WHY AZURE AI LANDING ZONE IS REQUIRED:-__ |
+| 📌 WHY AZURE AI LANDING ZONE IS REQUIRED:- |
 | --------- |
 | 🎯 __Standardization__ - Develop and Promote the use of Blueprint(Predefined Templates) to deploy AI Services. |
 | 🎯 __Faster Time to Market__ - Less time on Infrastructure, more focus on building AI solutions. |
