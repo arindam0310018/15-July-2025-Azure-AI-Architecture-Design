@@ -23,10 +23,11 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | __💡Decision Tree.__ |
 | __💡Hub and Spoke Model for AI.__ |
 | __💡Classical ML Architecture.__ |
-| __💡Model Platform Architecture.__ |
 | __💡Analytics Platform Architecture.__ |
 | __💡Low Code No Code Architecture.__ |
+| __💡Importance of MLOps.__ |
 | __💡Consumption Model - APIM and MCP.__ |
+| __💡How AI Team Structure Looks Like.__ |
 
 | 📌 MYTHS OF AI ENGINEERING:- |
 | --------- |
@@ -66,4 +67,12 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | --------- |
 | <img src="/Images/10-AI-Architecture -Hub-Spoke.jpg"> |
 
+| 📌 CLASSICAL ML ARCHITECTURE:- |
+| --------- |
+| <img src="/Images/11-Classical-ML-Architecture.jpg"> |
+
+| 📌 ANALYTICS PLATFORM ARCHITECTURE:- |
+| --------- |
+| __REALTIME USE CASE__ |
+| <img src="/Images/12-Analytics-Platform-Architecture.jpg"> |
 
