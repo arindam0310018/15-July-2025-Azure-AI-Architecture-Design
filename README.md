@@ -96,10 +96,22 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | __Limitations/Constraints of LLM:__ ✅ No. of Tokens available per model; ✅ No. of Tokens per region |
 | __Mitigation:__ ✅ Create LLM instance in different regions and use Priority and Weight to prioritize the LLM instance; ✅ With retry, we detect, if we have hit the limitation of any LLM Instances. if yes, then retry on the next available LLM instances in other region. |
 | Now in order to avoid hitting limitation in each LLM instance (Per model and/or Per region), there is "a new GENAI capability available in APIM" - __"LLM Token Limit"__. This is available using APIM Policy. This will allow APIM to limit, No of tokens issued by Application or by user to specific LLM Models. |
-| __🚀 LLM Token Limit__ |
+| __🚀 LLM Metrics__ |
 | Applying Policy using this feature, we can get specific metrics related to LLMs: |
 | __✅ No of Tokens consumed.__ |
 | __✅ No of remaining tokens.__ |
 | __✅ Tokens available per applications.__ |
-
-
+| All the above metrics can be retrieved using Azure Monitor (Log Analytics). Application Insights is integrated to Log Analytics which will help us build presentable dashboards. |
+| __🚀 Caching__ |
+| The Caching in LLM context is very different than Backend APIs. |
+| With LLM models, the request send by the user is Prompt. The Structure of the Prompt is very much different than HTTP Requests. Its still JSON but it will contain - User Request and System Message. |
+| Cache in LLM is typically referred as Symantic Caching. |
+| Symantic Cache will rely on following: |
+| __✅ Database for Vector Search.__ |
+| __✅ APIM for Redis Cache. It is used to:__ |
+| __🛠️ Save the user prompt as requests.__ |
+| __🛠️ Save the response from the LLM models.__ |
+| User Requests can be of different forms. When looking up for right response, comparing text to text would not suffice for the specific requests. Here symantic caching or searching would be useful. This will require another component - __"Embedding Model"__ |
+| The Flow is - __User Prompt > Transferred to Vector > This Vector will then be used to search for the nearest vectors stored in Azure Redis Cache > This will then help us find the right response >  Response then send back to the application.__ |
+| __🚀 Streaming__ |
+| When LLM Models are directly invoked, it will respond by using streaming, __sending chunks of Data__. User can then start reading the initial data elements while LLM will continue the rest of the response. This same concept can be used in APIM. | 
