@@ -137,9 +137,9 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | __🚀 Streaming__ |
 | When LLM Models are directly invoked, it will respond by using streaming, __sending chunks of Data__. User can then start reading the initial data elements while LLM will continue the rest of the response. This same concept can be used in APIM. | 
 
-| 📦 GEN AI CAPABILITY IN APIM:- |
+| 📦 ARCHITECTURE APIM & OPEN AI:- |
 | --------- |
-
+| <img src="/Images/16-OpenAI-APIM-Arch.jpg"> |
 
 | 🧪 MCP:- |
 | --------- |
