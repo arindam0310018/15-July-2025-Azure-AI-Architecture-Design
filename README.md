@@ -73,7 +73,7 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 
 | 📌 ANALYTICS PLATFORM ARCHITECTURE:- |
 | --------- |
-| __REALTIME USE CASE__ |
+| __🔥 REALTIME USE CASE 🔥__ |
 | <img src="/Images/12-Analytics-Platform-Architecture.jpg"> |
 
 | 📌 NATIVE FEATURES OF APIM:- |
