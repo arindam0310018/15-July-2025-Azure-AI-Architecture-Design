@@ -62,5 +62,8 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | --------- |
 | <img src="/Images/8-AI-Decision-Tree.jpg"> |
 
+| 📌 HUB & SPOKE MODEL FOR AI:- |
+| --------- |
+| <img src="/Images/10-AI-Architecture -Hub-Spoke.jpg"> |
 
 
