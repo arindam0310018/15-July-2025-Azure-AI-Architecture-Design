@@ -149,6 +149,3 @@ In order to adopt AI based workloads in a consistent and production ready way, _
 | <img src="/Images/17-MCP-Core-Components.jpg"> |
 | __Before & After MCP:-__ |
 | <img src="/Images/18-Before-After-MCP.jpg"> |
-
-| __📌 How AI Team Structure Looks Like.__ |
-| --------- |
