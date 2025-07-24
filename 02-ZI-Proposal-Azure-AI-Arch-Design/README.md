@@ -1,6 +1,6 @@
-# ZURICH INSURANCE PROPOSAL | AZURE AI ARCHITECTURE & DESIGN:-
+# PROPOSAL | AZURE AI ARCHITECTURE & DESIGN:-
 
-## 📌 AI PLATFORM REDESIGN STEPS:-
+## 📌 AI PLATFORM DESIGN STEPS:-
 
 | <img src="/Images/20-ZI-AI-Platform-Redesign-Steps.jpg"> |
 | --------- |
